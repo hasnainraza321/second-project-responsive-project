@@ -1,0 +1,1 @@
+This project is a simplified clone of a food delivery website, created using HTML and CSS. It showcases the basic structure of a delivery platform, featuring a hero section, restaurant listings, and a responsive design. The layout is designed to provide a seamless and user-friendly experience, mimicking the look and feel of popular food delivery services.
